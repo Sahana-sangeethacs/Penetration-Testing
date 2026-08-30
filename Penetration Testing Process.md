@@ -14,7 +14,7 @@ external network perspective
  -Internal pentesting means simulating an attack from within the network
  -The main goal of it is to determine if we could move through the network, gain higher level permission and access sensitive data
 
-##T ypes of Pentesting
+## Types of Pentesting
  -Blackbox (No information provided about the system)
  -Whitebox (Provided with full information about the system)
  -Greybox (Provided with limited information)
